@@ -1,0 +1,18 @@
+.container {
+    display:flex;
+    background-color: dodgerblue;
+    width:400px;
+    height: 300px;
+    border:solid black 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+background-color: palevioletred;
+border:solid 6px maroon;
+height:80px;
+width: 80px;
+font-weight: bold;
+text-align: center;
+}
